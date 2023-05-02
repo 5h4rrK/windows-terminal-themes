@@ -1,0 +1,22 @@
+{
+	"background": "#171D23",
+	"foreground": "#FFFFFF",
+	"black": "#333F4A",
+	"red": "#D95468",
+	"green": "#8BD49C",
+	"yellow": "#539AFC",
+	"blue": "#B62D65",
+	"purple": "#70E1E8",
+	"cyan": "#B7C5D3",
+	"white": "#41505E",
+	"brightBlack": "#D95468",
+	"brightRed": "#8BD49C",
+	"brightGreen": "#EBBF83",
+	"brightYellow": "#5EC4FF",
+	"brightBlue": "#E27E8D",
+	"brightPurple": "#70E1E8",
+	"brightCyan": "#FFFFFF",
+	"name": "citylights",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

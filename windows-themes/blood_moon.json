@@ -1,0 +1,23 @@
+{
+	"background": "#10100E",
+	"foreground": "#C6C6C4",
+	"black": "#10100E",
+	"red": "#C40233",
+	"green": "#009F6B",
+	"yellow": "#FFD700",
+	"blue": "#0087BD",
+	"purple": "#9A4EAE",
+	"cyan": "#20B2AA",
+	"white": "#C6C6C4",
+	"brightBlack": "#696969",
+	"brightRed": "#FF2400",
+	"brightGreen": "#03C03C",
+	"brightYellow": "#FDFF00",
+	"brightBlue": "#007FFF",
+	"brightPurple": "#FF1493",
+	"brightCyan": "#00CCCC",
+	"brightWhite": "#FFFAFA",
+	"name": "blood_moon",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

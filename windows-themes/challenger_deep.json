@@ -1,0 +1,23 @@
+{
+	"background": "#1E1C31",
+	"foreground": "#CBE1E7",
+	"black": "#141228",
+	"red": "#FF5458",
+	"green": "#62D196",
+	"yellow": "#FFB378",
+	"blue": "#65B2FF",
+	"purple": "#906CFF",
+	"cyan": "#63F2F1",
+	"white": "#A6B3CC",
+	"brightBlack": "#565575",
+	"brightRed": "#FF8080",
+	"brightGreen": "#95FFA4",
+	"brightYellow": "#FFE9AA",
+	"brightBlue": "#91DDFF",
+	"brightPurple": "#C991E1",
+	"brightCyan": "#AAFFE4",
+	"brightWhite": "#CBE3E7",
+	"name": "challenger_deep",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

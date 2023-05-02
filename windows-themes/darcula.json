@@ -1,0 +1,23 @@
+{
+	"background": "#282A36",
+	"foreground": "#F8F8F2",
+	"black": "#000000",
+	"red": "#FF5555",
+	"green": "#50FA7B",
+	"yellow": "#F1FA8C",
+	"blue": "#CAA9FA",
+	"purple": "#FF79C6",
+	"cyan": "#8BE9FD",
+	"white": "#BFBFBF",
+	"brightBlack": "#282A35",
+	"brightRed": "#FF6E67",
+	"brightGreen": "#5AF78E",
+	"brightYellow": "#F4F99D",
+	"brightBlue": "#CAA9FA",
+	"brightPurple": "#FF92D0",
+	"brightCyan": "#9AEDFE",
+	"brightWhite": "#E6E6E6",
+	"name": "darcula",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

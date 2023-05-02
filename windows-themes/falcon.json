@@ -1,0 +1,23 @@
+{
+	"background": "#020221",
+	"foreground": "#B4B4B9",
+	"black": "#000004",
+	"red": "#FF3600",
+	"green": "#718E3F",
+	"yellow": "#FFC552",
+	"blue": "#635196",
+	"purple": "#FF761A",
+	"cyan": "#34BFA4",
+	"white": "#B4B4B9",
+	"brightBlack": "#020221",
+	"brightRed": "#FF8E78",
+	"brightGreen": "#B1BF75",
+	"brightYellow": "#FFD392",
+	"brightBlue": "#99A4BC",
+	"brightPurple": "#FFB07B",
+	"brightCyan": "#8BCCBF",
+	"brightWhite": "#F8F8FF",
+	"name": "falcon",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

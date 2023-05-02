@@ -1,0 +1,23 @@
+{
+	"background": "#000000",
+	"foreground": "#B6B6B6",
+	"black": "#000000",
+	"red": "#990000",
+	"green": "#00A600",
+	"yellow": "#999900",
+	"blue": "#0000B2",
+	"purple": "#B200B2",
+	"cyan": "#00A6B2",
+	"white": "#BFBFBF",
+	"brightBlack": "#666666",
+	"brightRed": "#E50000",
+	"brightGreen": "#00D900",
+	"brightYellow": "#E5E500",
+	"brightBlue": "#0000FF",
+	"brightPurple": "#E500E5",
+	"brightCyan": "#00E5E5",
+	"brightWhite": "#E5E5E5",
+	"name": "terminal_app",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

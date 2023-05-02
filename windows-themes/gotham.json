@@ -1,0 +1,23 @@
+{
+	"background": "#0A0F14",
+	"foreground": "#98D1CE",
+	"black": "#0A0F14",
+	"red": "#C33027",
+	"green": "#26A98B",
+	"yellow": "#EDB54B",
+	"blue": "#195465",
+	"purple": "#4E5165",
+	"cyan": "#33859D",
+	"white": "#98D1CE",
+	"brightBlack": "#10151B",
+	"brightRed": "#D26939",
+	"brightGreen": "#081F2D",
+	"brightYellow": "#245361",
+	"brightBlue": "#093748",
+	"brightPurple": "#888BA5",
+	"brightCyan": "#599CAA",
+	"brightWhite": "#D3EBE9",
+	"name": "gotham",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

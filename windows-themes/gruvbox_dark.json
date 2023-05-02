@@ -1,0 +1,23 @@
+{
+	"background": "#1D2021",
+	"foreground": "#282828",
+	"black":  "#032302F",
+	"red": "#EBDBB2",
+	"green": "#282828",
+	"yellow": "#CC241D",
+	"blue": "#98971A",
+	"purple": "#D79921",
+	"cyan": "#458588",
+	"white": "#B16286",
+	"brightBlack": "#689D6A",
+	"brightRed": "#A89984",
+	"brightGreen": "#928374",
+	"brightYellow": "#FB4934",
+	"brightBlue": "#B8BB26",
+	"brightPurple": "#FABD2F",
+	"brightCyan": "#83A598",
+	"brightWhite": "#D3869B",
+	"selectionBackground": "#8EC07C",
+	"cursorColor": "#EBDBB2",
+	"name": "gruvbox_dark"
+}

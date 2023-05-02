@@ -1,0 +1,23 @@
+{
+	"background": "#1E2030",
+	"foreground": "#7F85A3",
+	"black": "#444A73",
+	"red": "#FF5370",
+	"green": "#4FD6BE",
+	"yellow": "#FFC777",
+	"blue": "#3E68D7",
+	"purple": "#FC7B7B",
+	"cyan": "#86E1FC",
+	"white": "#D0D0D0",
+	"brightBlack": "#828BB8",
+	"brightRed": "#FF98A4",
+	"brightGreen": "#C3E88D",
+	"brightYellow": "#FFC777",
+	"brightBlue": "#82AAFF",
+	"brightPurple": "#FF966C",
+	"brightCyan": "#B4F9F8",
+	"brightWhite": "#5F8787",
+	"name": "moonlight_ii_vscode",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

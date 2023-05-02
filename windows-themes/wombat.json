@@ -1,0 +1,23 @@
+{
+	"background": "#1F1F1F",
+	"foreground": "#E5E1D8",
+	"black": "#000000",
+	"red": "#F7786D",
+	"green": "#BDE97C",
+	"yellow": "#EFDFAC",
+	"blue": "#6EBAF8",
+	"purple": "#EF88FF",
+	"cyan": "#90FDF8",
+	"white": "#E5E1D8",
+	"brightBlack": "#B4B4B4",
+	"brightRed": "#F99F92",
+	"brightGreen": "#E3F7A1",
+	"brightYellow": "#F2E9BF",
+	"brightBlue": "#B3D2FF",
+	"brightPurple": "#E5BDFF",
+	"brightCyan": "#C2FEFA",
+	"brightWhite": "#FFFFFF",
+	"name": "wombat",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

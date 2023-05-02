@@ -1,0 +1,23 @@
+{
+	"background": "#292D3E",
+	"foreground": "#D0D0D0",
+	"black": "#292D3E",
+	"red": "#F07178",
+	"green": "#C3E88D",
+	"yellow": "#FFCB6B",
+	"blue": "#82AAFF",
+	"purple": "#C792EA",
+	"cyan": "#89DDFF",
+	"white": "#D0D0D0",
+	"brightBlack": "#434758",
+	"brightRed": "#FF8B92",
+	"brightGreen": "#DDFFA7",
+	"brightYellow": "#FFE585",
+	"brightBlue": "#9CC4FF",
+	"brightPurple": "#E1ACFF",
+	"brightCyan": "#A3F7FF",
+	"brightWhite": "#FFFFFF",
+	"name": "palenight",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

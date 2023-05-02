@@ -1,0 +1,23 @@
+{
+	"background": "#282A36",
+	"foreground": "#EFF0EB",
+	"black": "#282A36",
+	"red": "#FF5C57",
+	"green": "#5AF78E",
+	"yellow": "#F3F99D",
+	"blue": "#57C7FF",
+	"purple": "#FF6AC1",
+	"cyan": "#9AEDFE",
+	"white": "#F1F1F0",
+	"brightBlack": "#686868",
+	"brightRed": "#FF5C57",
+	"brightGreen": "#5AF78E",
+	"brightYellow": "#F3F99D",
+	"brightBlue": "#57C7FF",
+	"brightPurple": "#FF6AC1",
+	"brightCyan": "#9AEDFE",
+	"brightWhite": "#F1F1F0",
+	"name": "snazzy",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

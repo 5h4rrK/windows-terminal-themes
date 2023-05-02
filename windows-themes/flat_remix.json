@@ -1,0 +1,23 @@
+{
+	"background": "#272A34",
+	"foreground": "#FFFFFF",
+	"black": "#1F2229",
+	"red": "#EC0101",
+	"green": "#47D4B9",
+	"yellow": "#FF8A18",
+	"blue": "#277FFF",
+	"purple": "#D71655",
+	"cyan": "#05A1F7",
+	"white": "#FFFFFF",
+	"brightBlack": "#1F2229",
+	"brightRed": "#D41919",
+	"brightGreen": "#5EBDAB",
+	"brightYellow": "#FEA44C",
+	"brightBlue": "#367BF0",
+	"brightPurple": "#BF2E5D",
+	"brightCyan": "#49AEE6",
+	"brightWhite": "#FFFFFF",
+	"name": "flat_remix",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

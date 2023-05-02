@@ -1,0 +1,23 @@
+{
+	"background": "#000000",
+	"foreground": "#EAEAEA",
+	"black": "#000000",
+	"red": "#D54E53",
+	"green": "#B9CA4A",
+	"yellow": "#E6C547",
+	"blue": "#7AA6DA",
+	"purple": "#C397D8",
+	"cyan": "#70C0BA",
+	"white": "#424242",
+	"brightBlack": "#666666",
+	"brightRed": "#FF3334",
+	"brightGreen": "#9EC400",
+	"brightYellow": "#E7C547",
+	"brightBlue": "#7AA6DA",
+	"brightPurple": "#B77EE0",
+	"brightCyan": "#54CED6",
+	"brightWhite": "#2A2A2A",
+	"name": "tomorrow_night_bright",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

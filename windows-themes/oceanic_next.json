@@ -1,0 +1,23 @@
+{
+	"background": "#1B2B34",
+	"foreground": "#D8DEE9",
+	"black": "#29414F",
+	"red": "#EC5F67",
+	"green": "#99C794",
+	"yellow": "#FAC863",
+	"blue": "#6699CC",
+	"purple": "#C594C5",
+	"cyan": "#5FB3B3",
+	"white": "#65737E",
+	"brightBlack": "#405860",
+	"brightRed": "#EC5F67",
+	"brightGreen": "#99C794",
+	"brightYellow": "#FAC863",
+	"brightBlue": "#6699CC",
+	"brightPurple": "#C594C5",
+	"brightCyan": "#5FB3B3",
+	"brightWhite": "#ADB5C0",
+	"name": "oceanic_next",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

@@ -1,0 +1,23 @@
+{
+	"background": "#282828",
+	"foreground": "#EEEEEE",
+	"black": "#282828",
+	"red": "#F43753",
+	"green": "#C9D05C",
+	"yellow": "#FFC24B",
+	"blue": "#B3DEEF",
+	"purple": "#D3B987",
+	"cyan": "#73CEF4",
+	"white": "#EEEEEE",
+	"brightBlack": "#4C4C4C",
+	"brightRed": "#F43753",
+	"brightGreen": "#C9D05C",
+	"brightYellow": "#FFC24B",
+	"brightBlue": "#B3DEEF",
+	"brightPurple": "#D3B987",
+	"brightCyan": "#73CEF4",
+	"brightWhite": "#FEFFFF",
+	"name": "tender",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

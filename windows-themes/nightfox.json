@@ -1,0 +1,23 @@
+{
+	"background": "#192330",
+	"foreground": "#CDCECF",
+	"black": "#393B44",
+	"red": "#C94F6D",
+	"green": "#81B29A",
+	"yellow": "#DBC074",
+	"blue": "#719CD6",
+	"purple": "#9D79D6",
+	"cyan": "#63CDCF",
+	"white": "#DFDFE0",
+	"brightBlack": "#575860",
+	"brightRed": "#D16983",
+	"brightGreen": "#8EBAA4",
+	"brightYellow": "#E0C989",
+	"brightBlue": "#86ABDC",
+	"brightPurple": "#BAA1E2",
+	"brightCyan": "#7AD5D6",
+	"brightWhite": "#E4E4E5",
+	"name": "nightfox",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

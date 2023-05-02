@@ -1,0 +1,23 @@
+{
+	"background": "#26282A",
+	"foreground": "#F0F0F0",
+	"black": "#F0F0F0",
+	"red": "#26282A",
+	"green": "#26282A",
+	"yellow": "#FF8878",
+	"blue": "#B4FB73",
+	"purple": "#FFFCB7",
+	"cyan": "#8BBCE5",
+	"white": "#FFB2FE",
+	"brightBlack": "#A2E1F8",
+	"brightRed": "#F1F1F1",
+	"brightGreen": "#6F6F6F",
+	"brightYellow": "#FE978B",
+	"brightBlue": "#D6FCBA",
+	"brightPurple": "#FFFED5",
+	"brightCyan": "#C2E3FF",
+	"brightWhite": "#FFC6FF",
+	"name": "taerminal",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

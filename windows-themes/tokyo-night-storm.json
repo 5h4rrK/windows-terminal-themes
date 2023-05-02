@@ -1,0 +1,23 @@
+{
+	"background": "#24283B",
+	"foreground": "#A9B1D6",
+	"black": "#32344A",
+	"red": "#F7768E",
+	"green": "#9ECE6A",
+	"yellow": "#E0AF68",
+	"blue": "#7AA2F7",
+	"purple": "#AD8EE6",
+	"cyan": "#449DAB",
+	"white": "#9699A8",
+	"brightBlack": "#444B6A",
+	"brightRed": "#FF7A93",
+	"brightGreen": "#B9F27C",
+	"brightYellow": "#FF9E64",
+	"brightBlue": "#7DA6FF",
+	"brightPurple": "#BB9AF7",
+	"brightCyan": "#0DB9D7",
+	"brightWhite": "#ACB0D0",
+	"name": "tokyo-night-storm",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

@@ -1,0 +1,23 @@
+{
+	"background": "#1D1F28",
+	"foreground": "#FDFDFD",
+	"black": "#282A36",
+	"red": "#F37F97",
+	"green": "#5ADECD",
+	"yellow": "#F2A272",
+	"blue": "#8897F4",
+	"purple": "#C574DD",
+	"cyan": "#79E6F3",
+	"white": "#FDFDFD",
+	"brightBlack": "#414458",
+	"brightRed": "#FF4971",
+	"brightGreen": "#18E3C8",
+	"brightYellow": "#EBCB8B",
+	"brightBlue": "#FF8037",
+	"brightPurple": "#556FFF",
+	"brightCyan": "#3FDCEE",
+	"brightWhite": "#BEBEC1",
+	"name": "thelovelace",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

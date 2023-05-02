@@ -1,0 +1,23 @@
+{
+	"background": "#1E1E1E",
+	"foreground": "#FFFFFF",
+	"black": "#171421",
+	"red": "#C01C28",
+	"green": "#26A269",
+	"yellow": "#A2734C",
+	"blue": "#12488B",
+	"purple": "#A347BA",
+	"cyan": "#2AA1B3",
+	"white": "#D0CFCC",
+	"brightBlack": "#535C64",
+	"brightRed": "#F66151",
+	"brightGreen": "#33D17A",
+	"brightYellow": "#E9AD0C",
+	"brightBlue": "#2A7BDE",
+	"brightPurple": "#C061CB",
+	"brightCyan": "#33C7DE",
+	"brightWhite": "#FFFFFF",
+	"name": "gnome_terminal",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

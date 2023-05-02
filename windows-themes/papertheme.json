@@ -1,0 +1,23 @@
+{
+	"background": "F2EEDE",
+	"foreground": "000000",
+	"black": "000000",
+	"red": "CC3E28",
+	"green": "216609",
+	"yellow": "B58900",
+	"blue": "1E6FCC",
+	"purple": "5C21A5",
+	"cyan": "158C86",
+	"white": "AAAAAA",
+	"brightBlack": "555555",
+	"brightRed": "CC3E28",
+	"brightGreen": "216609",
+	"brightYellow": "B58900",
+	"brightBlue": "1E6FCC",
+	"brightPurple": "5C21A5",
+	"brightCyan": "158C86",
+	"brightWhite": "AAAAAA",
+	"name": "papertheme",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

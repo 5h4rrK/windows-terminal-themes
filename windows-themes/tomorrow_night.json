@@ -1,0 +1,23 @@
+{
+	"background": "#1D1F21",
+	"foreground": "#C5C8C6",
+	"black": "#1D1F21",
+	"red": "#CC6666",
+	"green": "#B5BD68",
+	"yellow": "#E6C547",
+	"blue": "#81A2BE",
+	"purple": "#B294BB",
+	"cyan": "#70C0BA",
+	"white": "#373B41",
+	"brightBlack": "#666666",
+	"brightRed": "#FF3334",
+	"brightGreen": "#9EC400",
+	"brightYellow": "#F0C674",
+	"brightBlue": "#81A2BE",
+	"brightPurple": "#B77EE0",
+	"brightCyan": "#54CED6",
+	"brightWhite": "#282A2E",
+	"name": "tomorrow_night",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

@@ -1,0 +1,23 @@
+{
+	"background": "000000",
+	"foreground": "FFFFFF",
+	"black": "1A1A1A",
+	"red": "F4005F",
+	"green": "98E024",
+	"yellow": "FA8419",
+	"blue": "9D65FF",
+	"purple": "F4005F",
+	"cyan": "58D1EB",
+	"white": "C4C5B5",
+	"brightBlack": "625E4C",
+	"brightRed": "F4005F",
+	"brightGreen": "98E024",
+	"brightYellow": "E0D561",
+	"brightBlue": "9D65FF",
+	"brightPurple": "F4005F",
+	"brightCyan": "58D1EB",
+	"brightWhite": "F6F6EF",
+	"name": "monokai_charcoal",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

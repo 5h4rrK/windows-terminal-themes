@@ -1,0 +1,23 @@
+{
+	"background": "0#F9F5D7",
+	"foreground": "#FBF1C7",
+	"black": "0#F2E5BC",
+	"red": "#3C3836",
+	"green": "#FBF1C7",
+	"yellow": "#CC241D",
+	"blue": "#98971A",
+	"purple": "#D79921",
+	"cyan": "#458588",
+	"white": "#B16286",
+	"brightBlack": "#689D6A",
+	"brightRed": "#7C6F64",
+	"brightGreen": "#928374",
+	"brightYellow": "#9D0006",
+	"brightBlue": "#79740E",
+	"brightPurple": "#B57614",
+	"brightCyan": "#076678",
+	"brightWhite": "#8F3F71",
+	"selectionBackground": "#427B58",
+	"cursorColor": "#3C3836",
+	"name": "gruvbox_light"
+}

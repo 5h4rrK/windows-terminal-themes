@@ -1,0 +1,23 @@
+{
+	"background": "#000000",
+	"foreground": "#FFFFFF",
+	"black": "#000000",
+	"red": "#CD0000",
+	"green": "#00CD00",
+	"yellow": "#CDCD00",
+	"blue": "#0000EE",
+	"purple": "#CD00CD",
+	"cyan": "#00CDCD",
+	"white": "#E5E5E5",
+	"brightBlack": "#7F7F7F",
+	"brightRed": "#FF0000",
+	"brightGreen": "#00FF00",
+	"brightYellow": "#FFFF00",
+	"brightBlue": "#5C5CFF",
+	"brightPurple": "#FF00FF",
+	"brightCyan": "#00FFFF",
+	"brightWhite": "#FFFFFF",
+	"name": "xterm",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

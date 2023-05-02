@@ -1,0 +1,23 @@
+{
+	"background": "#F8F8F8",
+	"foreground": "#2A2B33",
+	"black": "#000000",
+	"red": "#DE3D35",
+	"green": "#3E953A",
+	"yellow": "#D2B67B",
+	"blue": "#2F5AF3",
+	"purple": "#A00095",
+	"cyan": "#3E953A",
+	"white": "#BBBBBB",
+	"brightBlack": "#000000",
+	"brightRed": "#DE3D35",
+	"brightGreen": "#3E953A",
+	"brightYellow": "#D2B67B",
+	"brightBlue": "#2F5AF3",
+	"brightPurple": "#A00095",
+	"brightCyan": "#3E953A",
+	"brightWhite": "#FFFFFF",
+	"name": "atom_one_light",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

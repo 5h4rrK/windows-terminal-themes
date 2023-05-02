@@ -1,0 +1,23 @@
+{
+	"background": "#000B1E",
+	"foreground": "#0ABDC6",
+	"black": "#123E7C",
+	"red": "#FF0000",
+	"green": "#D300C4",
+	"yellow": "#F57800",
+	"blue": "#123E7C",
+	"purple": "#711C91",
+	"cyan": "#0ABDC6",
+	"white": "#D7D7D5",
+	"brightBlack": "#1C61C2",
+	"brightRed": "#FF0000",
+	"brightGreen": "#D300C4",
+	"brightYellow": "#F57800",
+	"brightBlue": "#00FF00",
+	"brightPurple": "#711C91",
+	"brightCyan": "#0ABDC6",
+	"brightWhite": "#D7D7D5",
+	"name": "cyber_punk_neon",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

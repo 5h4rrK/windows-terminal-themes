@@ -1,0 +1,23 @@
+{
+	"background": "#292C3E",
+	"foreground": "#EBEBEB",
+	"black": "#0D0D0D",
+	"red": "#FF301B",
+	"green": "#A0E521",
+	"yellow": "#FFC620",
+	"blue": "#1BA6FA",
+	"purple": "#8763B8",
+	"cyan": "#21DEEF",
+	"white": "#EBEBEB",
+	"brightBlack": "#6D7070",
+	"brightRed": "#FF4352",
+	"brightGreen": "#B8E466",
+	"brightYellow": "#FFD750",
+	"brightBlue": "#1BA6FA",
+	"brightPurple": "#A578EA",
+	"brightCyan": "#73FBF1",
+	"brightWhite": "#FEFEF8",
+	"name": "argonaut",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

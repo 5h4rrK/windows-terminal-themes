@@ -1,0 +1,23 @@
+{
+	"background": "#2C2C2C",
+	"foreground": "#DCDCCC",
+	"black": "#3F3F3F",
+	"red": "#705050",
+	"green": "#60B48A",
+	"yellow": "#DFAF8F",
+	"blue": "#9AB8D7",
+	"purple": "#DC8CC3",
+	"cyan": "#8CD0D3",
+	"white": "#DCDCCC",
+	"brightBlack": "#709080",
+	"brightRed": "#DCA3A3",
+	"brightGreen": "#72D5A3",
+	"brightYellow": "#F0DFAF",
+	"brightBlue": "#94BFF3",
+	"brightPurple": "#EC93D3",
+	"brightCyan": "#93E0E3",
+	"brightWhite": "#FFFFFF",
+	"name": "dark_pastels",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

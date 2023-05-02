@@ -1,0 +1,23 @@
+{
+	"background": "#22272E",
+	"foreground": "#768390",
+	"black": "#545D68",
+	"red": "#F47067",
+	"green": "#57AB5A",
+	"yellow": "#C69026",
+	"blue": "#539BF5",
+	"purple": "#B083F0",
+	"cyan": "#39C5CF",
+	"white": "#909DAB",
+	"brightBlack": "#636E7B",
+	"brightRed": "#FF938A",
+	"brightGreen": "#6BC46D",
+	"brightYellow": "#DAAA3F",
+	"brightBlue": "#6CB6FF",
+	"brightPurple": "#DCBDFB",
+	"brightCyan": "#56D4DD",
+	"brightWhite": "#CDD9E5",
+	"name": "github_dimmed",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

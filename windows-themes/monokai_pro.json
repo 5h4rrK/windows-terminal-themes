@@ -1,0 +1,23 @@
+{
+	"background": "#2D2A2E",
+	"foreground": "#FFF1F3",
+	"black": "#2C2525",
+	"red": "#FD6883",
+	"green": "#ADDA78",
+	"yellow": "#F9CC6C",
+	"blue": "#F38D70",
+	"purple": "#A8A9EB",
+	"cyan": "#85DACC",
+	"white": "#FFF1F3",
+	"brightBlack": "#72696A",
+	"brightRed": "#FD6883",
+	"brightGreen": "#ADDA78",
+	"brightYellow": "#F9CC6C",
+	"brightBlue": "#F38D70",
+	"brightPurple": "#A8A9EB",
+	"brightCyan": "#85DACC",
+	"brightWhite": "#FFF1F3",
+	"name": "monokai_pro",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

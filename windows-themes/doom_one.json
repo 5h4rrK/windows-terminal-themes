@@ -1,0 +1,15 @@
+{
+	"background": "#282C34",
+	"foreground": "#BBC2CF",
+	"black": "#282C34",
+	"red": "#FF6C6B",
+	"green": "#98BE65",
+	"yellow": "#ECBE7B",
+	"blue": "#51AFEF",
+	"purple": "#C678DD",
+	"cyan": "#46D9FF",
+	"white": "#BBC2CF",
+	"name": "doom_one",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

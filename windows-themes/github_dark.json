@@ -1,0 +1,23 @@
+{
+	"background": "#24292E",
+	"foreground": "#D1D5DA",
+	"black": "#586069",
+	"red": "#EA4A5A",
+	"green": "#34D058",
+	"yellow": "#FFEA7F",
+	"blue": "#2188FF",
+	"purple": "#B392F0",
+	"cyan": "#39C5CF",
+	"white": "#D1D5DA",
+	"brightBlack": "#959DA5",
+	"brightRed": "#F97583",
+	"brightGreen": "#85E89D",
+	"brightYellow": "#FFEA7F",
+	"brightBlue": "#79B8FF",
+	"brightPurple": "#B392F0",
+	"brightCyan": "#56D4DD",
+	"brightWhite": "#FAFBFC",
+	"name": "github_dark",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}

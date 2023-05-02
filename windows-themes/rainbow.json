@@ -1,0 +1,23 @@
+{
+	"background": "#192835",
+	"foreground": "#AADA4F",
+	"black": "#5B4375",
+	"red": "#426BB6",
+	"green": "#2286B5",
+	"yellow": "#5AB782",
+	"blue": "#93CA5B",
+	"purple": "#C6C842",
+	"cyan": "#8A5135",
+	"white": "#C54646",
+	"brightBlack": "#5B4375",
+	"brightRed": "#426BB6",
+	"brightGreen": "#2286B5",
+	"brightYellow": "#5AB782",
+	"brightBlue": "#93CA5B",
+	"brightPurple": "#C6C842",
+	"brightCyan": "#8A5135",
+	"brightWhite": "#C54646",
+	"name": "rainbow",
+	"selectionBackground": "#4a4543",
+	"cursorColor": "#a5a2a2"
+}
