@@ -18,6 +18,6 @@
 	"brightCyan": "#83A598",
 	"brightWhite": "#D3869B",
 	"selectionBackground": "#8EC07C",
-	"cursorColor": "#EBDBB2",
+	"cursorColor": "#ffffff",
 	"name": "gruvbox_dark"
 }
